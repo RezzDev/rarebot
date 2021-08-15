@@ -1,0 +1,17 @@
+      Rare Bot Command List
+      
+      For All
+      
+      r!help - Command To See Command List
+      
+      
+      Moderator Command
+      r!ban - Command To Ban Member
+      r!kick - Command To Kick Member
+      r!mute - Command To Mute Member
+      
+      
+      
+      
+      
+      
