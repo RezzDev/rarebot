@@ -9,7 +9,7 @@
       r!ban - Command To Ban Member
       r!kick - Command To Kick Member
       r!mute - Command To Mute Member
-      
+      r!clear - Command To Clear A Channel
       
       
       
